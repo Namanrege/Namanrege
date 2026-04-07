@@ -1,71 +1,15 @@
 # Hi, I'm Naman 👋
 
-🚀 Full-Stack Developer | MERN Stack | Building Clean & Modern Web Experiences
+💻 Aspiring MERN Stack Developer  
+🎓 3rd-year Computer Science student  
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Final Year college student  
-- 💻 Focused on becoming a **job-ready MERN stack developer**  
-- ⚡ I love building **minimal, high-performance, and visually clean interfaces**  
-- 🎯 Currently working on real-world client projects & improving my portfolio  
-- 🧠 Learning deeply instead of just scratching the surface  
-
----
+I build clean, responsive, and scalable web applications using the MERN stack.  
+Currently focused on strengthening backend fundamentals and delivering real-world projects.
 
 ## 🛠️ Tech Stack
+React • Node.js • Express • MongoDB • Tailwind CSS
 
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Tailwind CSS
+## 🎯 Looking For
+Internship / Junior Developer opportunities
 
-**Backend**
-- Node.js
-- Express.js
-
-**Database**
-- MongoDB
-
-**Tools & Others**
-- Git & GitHub
-- REST APIs
-- Figma (UI/UX basics)
-
----
-
-## 📈 Current Focus
-
-- Building a **professional portfolio website**
-- Improving **UI/UX & animations (React Bits, modern interactions)**
-- Strengthening **backend fundamentals**
-- Working with **real clients**
-
----
-
-## 📂 Projects
-
-- 🌐 Portfolio Website (in progress)
-- 🧩 Web Development Project
-- 📱 App Design Project
-
-*(More coming soon...)*
-
----
-
-## 📬 Connect With Me
-
-- 💼 Portfolio: [Coming Soon]
-- 📧 Email: [Your Email]
-
----
-
-## ⚡ Fun Fact
-
-I prefer **minimal design over flashy clutter** — clean always wins.
-
----
-
-⭐ *Always learning. Always building.*
+⭐ Quick learner | Problem-solver | Consistent builder
