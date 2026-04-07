@@ -1,7 +1,7 @@
 # Hi, I'm Naman 👋
 
 💻 Aspiring MERN Stack Developer  
-🎓 3rd-year Computer Science student  
+🎓 Final Year CSE Undergrad
 
 I build clean, responsive, and scalable web applications using the MERN stack.  
 Currently focused on strengthening backend fundamentals and delivering real-world projects.
